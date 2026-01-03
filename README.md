@@ -1,4 +1,4 @@
-<h1 align="center">🌷 Welcome to my Github 🌷</h1>
+<h1 align="center">🌷 Welcome to my cozy corner 🌷</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
