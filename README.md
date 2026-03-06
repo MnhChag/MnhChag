@@ -7,6 +7,8 @@
 </div>
 
 ---
+As a third-year Software Engineering student at FPT University, I'm looking for opportunities to use my knowledge and skills to build practical software solutions. I'm eager to learn, improve, and work with others on software development projects, and I am always ready to face new challenges.
+
 
 <h3 align="left">🛠 Languages & Tools</h3>
 <div align="center">
