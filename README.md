@@ -6,9 +6,7 @@
   </a>
 </div>
 
----
 As a third-year Software Engineering student at FPT University, I'm looking for opportunities to use my knowledge and skills to build practical software solutions. I'm eager to learn, improve, and work with others on software development projects, and I am always ready to face new challenges.
-
 
 <h3 align="left">🛠 Languages & Tools</h3>
 <div align="center">
@@ -26,6 +24,9 @@ As a third-year Software Engineering student at FPT University, I'm looking for 
 
 <h3>💻 Connect With Me</h3>
 <div align="center">
+  <a href="https://docs.google.com/document/d/1JG3dJ_0eQPS0wF7Ao7lc12BIuiw5D9Uh6QQZIlBuj-g/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/📄_My_Resume-000000?style=for-the-badge&logoColor=FFB6C1" alt="My Resume"/>
+  </a>
   <a href="mailto:nguyenminhtrang2905@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFB6C1" alt="Gmail"/>
   </a>
